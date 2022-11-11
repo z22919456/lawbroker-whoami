@@ -10,7 +10,7 @@ export default [
       {
         file: 'dist/bundle.js',
         format: 'iife',
-        name: 'LawUid',
+        name: 'LawWhoami',
         sourcemap: true
       }
     ],

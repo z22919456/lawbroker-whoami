@@ -1,5 +1,5 @@
 {
-  "name": "@lawbroker/ga4-whomai",
+  "name": "@lawbroker/ga4-whoami",
   "version": "0.0.1",
   "description": "Detect user id for customer and salesman",
   "main": "src/index.ts",

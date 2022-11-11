@@ -12,4 +12,4 @@ declare const _default: {
     getFingerPrint: typeof getFingerPrint;
 };
 export default _default;
-//# sourceMappingURL=LawUid.d.ts.map
+//# sourceMappingURL=LawWhoami.d.ts.map

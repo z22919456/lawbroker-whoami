@@ -1,4 +1,4 @@
-import LawUid from './LawUid'
+import LawUid from './LawWhoami'
 
 LawUid.getFingerPrint()
 
