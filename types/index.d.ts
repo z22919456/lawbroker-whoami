@@ -1,2 +1,3 @@
-import LawUid from './LawUid'
-export default LawUid
+import LawWhoami from './LawWhoami';
+export default LawWhoami;
+//# sourceMappingURL=index.d.ts.map

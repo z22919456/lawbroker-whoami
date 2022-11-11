@@ -1,4 +1,4 @@
 interface Window {
   dataLayer?: object[]
-  getLawUid?: () => void
+  LawWhoami?: LawWhoami
 }

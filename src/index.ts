@@ -1,5 +1,5 @@
-import LawUid from './LawWhoami'
+import LawWhoami from './LawWhoami'
 
-LawUid.getFingerPrint()
+LawWhoami.getFingerPrint()
 
-export default LawUid
+export default LawWhoami
