@@ -11,6 +11,7 @@ let url: string = ''
 
 const init = (apiUrl: string): void => {
   url = apiUrl
+  console.log(url)
 }
 
 const getUid = ({ eno, cid, email, mobilePhone, name }: UserInformation = {}): void => {

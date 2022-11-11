@@ -2,9 +2,8 @@ import * as FingerprintJS from '@fingerprintjs/fingerprintjs'
 import getCookie from './getCookie'
 
 function getFingerPrint (): void {
-  if (getCookie('fingerprint')) {
+  if (!getCookie('fingerprint')) {
     const fpPromise = FingerprintJS.load()
-
     fpPromise
       .then(async fp => await fp.get())
       .then(result => {
