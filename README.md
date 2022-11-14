@@ -12,10 +12,10 @@ When included as a script tag, `LawWhoami` is exposed in the global scope
   ...
   <!-- LawWhoami -->
   <script src="https://unpkg.com/@lawbroker/ga4-whoami@latest/dist/bundle.js"/> 
-  **<script>
+  <script>
     // You Need to initialized LawWhoami by giving API URL
     LawWhoami.init("https://law.generate-ga4-userId.api")
-  </script>**
+  </script>
   <!-- End LawWhoami -->
   ...
 </head>
