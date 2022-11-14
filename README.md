@@ -1,7 +1,9 @@
 # GA4 whoami
 
 ![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
-[![npm version][npm-src]][npm-href]
+![release version]][https://badgen.net/github/release/z22919456/lawbroker-whoami]
+
+
 
 
 # About
