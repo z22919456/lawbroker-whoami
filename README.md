@@ -1,5 +1,9 @@
 # GA4 whoami
 
+![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
+[![npm version][npm-src]][npm-href]
+
+
 # About
 Use fingerprint to mark browser of client, and generate UserID of Google Analytics
 # Getting Started
